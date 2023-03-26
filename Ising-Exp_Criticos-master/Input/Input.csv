@@ -1,0 +1,7 @@
+N, 100
+N_mover, 5000
+N_med, 100
+N_calentar, 10000
+B, 0
+beta, 10
+red_intermedia, False
