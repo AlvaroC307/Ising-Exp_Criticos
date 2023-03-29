@@ -1,1 +1,17 @@
-- Revisar la función de
++ Calcular la magnetización por spin el valor absoluto
++ Hacer el promedio de la mmagnetización por spin 
++ elevar cada una al cuadrado y volver a hacer el promedio
++ calcular susceptibilidad a partir de esos dos
++ hacer lo mismo con la energía y la capacidad calorífica
++ guardar los posibles resultado de las exponenciales en un tensor y elegir el adecuado para cada movimiento
++ hacer movimiento de calentamiento hasta llegar a un equilibrio. Empezar a medir después del calentamiento
+- Representar magnetización frente a temperatura. T de 10 a 0.2
++ Poner J = 1 
++ cambiar el menos que nos dijo antonio
++ meter todas las medidas en la misma función
+- Una funcion que mida la hora para saludar correctamente al usuario
+
+- multiplicar la energía solo por el de la derecha y el de arriba
+- promedio del valor absoluto de la magnetización
+- Revisar promedios pag 78 fig 3.7 newman
+- escalado finito -> cap 8 newman
