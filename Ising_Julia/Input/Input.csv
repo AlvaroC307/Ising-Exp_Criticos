@@ -1,0 +1,8 @@
+Variable, Valor,
+N, 5,
+N_mover, 1, (Por spin)
+N_med, 100,
+N_calentar, 1, (Por spin)
+B, 0,
+beta, 0.5,
+red_intermedia, 0, (1=true y 0=false)
