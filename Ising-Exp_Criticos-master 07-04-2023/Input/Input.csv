@@ -1,0 +1,10 @@
+N, 5
+N_mover, 2
+N_med, 100
+N_calentar, 100
+B, 0
+beta, 0.2
+red_intermedia, 0
+loop_temperatura, 100
+T_i, 0.1
+T_f, 10
