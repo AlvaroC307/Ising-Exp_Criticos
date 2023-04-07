@@ -1,8 +1,0 @@
-- Revisar la función E_0() en el programa Ising.py para que no ocupe tanto espacio
-
-
-
-
-
--Porque no deja importar de otros ficheros en live share :(
--Debug en Live Share (abre el json) O_o
