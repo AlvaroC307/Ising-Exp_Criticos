@@ -1,0 +1,15 @@
+- He limpiado un poco el código y lo he ordenado separando las partes.
+- He puesto los movimientos en función del número de spines
+- He metido el cálculo de exponenciales en una función y ahora es una matriz 2x5 en vez de un vector 1x10
+- He metido todas las medidas en el mismo archivo
+- La energía ahora la calcula entera cada vez que mide y solo usa dos spines vecinos (para no repetir)
+- He añadido la gráfica de la magnetización absoluta
+- He añadido a un Red.py nuevo para guardar las funciones de crear red y pintar red (Estaba hasta los huevos de no encontrarlas)
+- He cambiado la función de pintar la red y ahora sale nítida y no se difumina en los bordes de los cuadrados
+
+
+Alvaro:
+
+-He añadido que si se da el valor loop_temperatura=1, el programa siga la funcion One_Temp y calcule los valores para una sola temperatura,
+al intentar hacerlo en el programa completo se jodía entero y había que volver a descargarlo
+-He quitado el beta de la carpeta Input, ya que no era necesario

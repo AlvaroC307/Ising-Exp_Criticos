@@ -1,0 +1,15 @@
+N, 5
+N_mover * N**2, 10
+N_med, 100
+N_calentar * N**2, 10
+B, 0
+red_intermedia, 0
+loop_temperatura, 100
+T_i, 0.1
+T_f, 10
+One_temp, 100
+
+
+# En caso de que loop_temperatura > 1, pilla como datos T_i
+# y T_f. Si loop_temperatura = 1, los ignora y pilla solo el
+# dato de One_temp.
